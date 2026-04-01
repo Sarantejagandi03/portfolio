@@ -343,10 +343,10 @@ export default function App() {
           <div className="contact-grid">
             <div className="contact-links-col reveal">
               <p>I'm actively looking for design roles, freelance projects, and meaningful collaborations. If you're building something great, reach out — I'd love to be part of it.</p>
-              <a href="mailto:sarantejagandi@gmail.com" className="contact-link-item interactive">
+              <a href="mailto:sarantejagandi03@gmail.com" className="contact-link-item interactive">
                 <div>
                   <div className="link-label">Email</div>
-                  <div className="link-val">sarantejagandi@gmail.com</div>
+                  <div className="link-val">sarantejagandi03@gmail.com</div>
                 </div>
                 <div className="link-arrow">↗</div>
               </a>
